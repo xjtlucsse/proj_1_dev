@@ -10,7 +10,8 @@ gem 'browser'
 
 group :development do
   gem 'sqlite3'
-
+  gem 'test-unit'
+  gem 'minitest'
 end
 
 # Gems used only for assets and not required
