@@ -9,9 +9,7 @@ gem 'browser'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 group :development do
-  gem 'sqlite3'
-  gem 'test-unit'
-  gem 'minitest'
+  gem 'sqlite3', '1.3.11'
 end
 
 # Gems used only for assets and not required
