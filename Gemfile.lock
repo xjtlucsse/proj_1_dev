@@ -54,7 +54,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.25.1)
     multi_json (1.11.2)
-    pg (0.12.2)
+    pg (0.15.0)
     polyglot (0.3.5)
     rack (1.4.7)
     rack-cache (1.6.1)
@@ -114,7 +114,7 @@ DEPENDENCIES
   browser
   coffee-rails (= 3.2.2)
   jquery-rails
-  pg (= 0.12.2)
+  pg (= 0.15.0)
   rails (= 3.2.3)
   rails_12factor (= 0.0.2)
   sass-rails
